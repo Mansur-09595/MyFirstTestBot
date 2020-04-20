@@ -6,4 +6,4 @@ venv/
 ENV/
 env/
 
-congif.py
+config.py
